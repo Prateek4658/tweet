@@ -30,7 +30,7 @@ mongo will show the database.
 
 Clone this repository
 
-## 
+## https://github.com/Prateek4658/tweet.git
 Go into the repository
 
 cd tweet
