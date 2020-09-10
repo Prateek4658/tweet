@@ -37,3 +37,4 @@ cd tweet
 run the server nord app.js
 npm install
 nord app.js
+run the server at localhost:3004/landing
