@@ -35,4 +35,5 @@ Go into the repository
 
 cd tweet
 run the server nord app.js
-
+npm install
+nord app.js
