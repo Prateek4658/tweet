@@ -1,31 +1,38 @@
-# twitter-disappear-tweets
-tweets will be disappear after 24 hours automatically using Nodejs and mongodb
+# tweets disapper
+tweets are show when we we login and signup and tweet with #name using mangodb and node.js
 
 
-Twitter disappear chat  is a web application developed on Nodejs Expressjs framework
-
+tweet page have been made on nodejs and express and mangodb framework
 Features:
 
-It uses Nodejs to manage to database.
-It uses MongoDB Mongoose to manage to database.
-It uses Handlebars as the HTML Templating Engine.
+It uses nodejs for all degineing.
+it uses mongodb for database.
+it have used backend for login user.
+there is signup page also.
+every tweet is shown on every page when another person login.
 
-To Use
+To Use this.
+1- firstly install nodejs and mongodb in your system installed it properly.
+2- clone my respository to your system.
+3- open vscode and open the folder of the repository
+4- install the required packages.
+5- dependncies are written in json file.
 
-To clone and run this repository you'll need Node.js (which comes with npm) and MongoDB installed on your computer.
 
 From your command line:
-Start MongoDB
+Run Mongod 
+run mongo
 
-mongod
+mongo will show the database.
+1- show dbs
+2- use tweet
+3- db.comments.find()
 
-Then in another terminal:
 Clone this repository
 
-git clone https://github.com/rohitishu/twitter-disappear-tweets
+## 
 Go into the repository
 
-cd twitter
-Install dependencies and run the app
+cd tweet
+run the server nord app.js
 
-npm install && npm start
